@@ -14,7 +14,7 @@ The code of this analysis is available in the **handwashing.ipynb** file. All co
 
 ## Insights Gained
 
-According to the analysis, the average deaths in Vienna was significantly before handwashing was introduced and lower afterwards. Conversely, death rate was significantly higher when autosy was introduced.
+According to the analysis, the average deaths in Vienna was significantly higher before handwashing was introduced and lower afterwards. Conversely, death rate was significantly higher when autosy was introduced.
 
 Additionally, doctors and midwives worked in **clinic_1** and only midwives worked in **clinic_2**. From the data, it can be seen that the average death was significantly higher in **clinic_1** compared to **clinic_2**. This tells us that doctors who performed autopsies and other forms of surgeries without washing their hands carried the bacterial into the delivery room resulting in a higher mortality count (this data is supported by the spike in death rate when autopsy was introduced).
 
